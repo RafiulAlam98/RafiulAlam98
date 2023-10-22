@@ -3,13 +3,13 @@
 A full-stack web developer with a passion for creating beautiful, functional websites. I specialize in the MERN stack as well as the MEAN stack and have experience with a variety of modern web development frameworks and libraries. I take pride in my attention to detail and strive to make sure all websites I develop are able to serve their purpose.
 I have experience in Typescript, Angular, React, Next Js, Redux, Node.js, Express Js, Nest Js, MongoDB, Postgres, Prisma and other web development trends. I am familiar with all the necessary tools needed to create a website, including version control systems and task management tools. And I'm here for whatever you need. Let me know how I can help!
 
-Skills: HTML / CSS / JAVASRCIPT / FIREBASE / TYPESCRIPT / REACT / NEXT JS / REDUX / ANGULAR / NODE JS / MONGODB / NEST JS / POSTGRESQL / PRISMA 
+😍 Skills: HTML / CSS / JAVASCRIPT / FIREBASE / TYPESCRIPT / REACT / NEXT JS / REDUX / ANGULAR / NODE JS / MongoDB / NEST JS / POSTGRESQL / PRISMA 
 
-- 🔭 I’m currently working on Softlab IT 
-- 🌱 I’m currently learning Docker, AWS Deployment, Testing, GraphQL, React Native 
-- 👯 I’m looking to collaborate on GitHub 
-- 💬 Ask me about Web Development 
-- 📫 How to reach me: https://www.linkedin.com/in/m-rafiul-alam-tonmoy-65908a202/ 
+✔ 🔭 I’m currently working on Softlab IT 
+✔ 🌱 I’m currently learning Docker, AWS Deployment, Testing, GraphQL, React Native 
+✔ 👯 I’m looking to collaborate on GitHub 
+✔ 💬 Ask me about Web Development 
+✔ 📫 How to reach me: https://www.linkedin.com/in/m-rafiul-alam-tonmoy-65908a202/ 
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/RafiulAlam98)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/m-rafiul-alam-tonmoy-65908a202//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/rafiul.alam.buichitola/)  
