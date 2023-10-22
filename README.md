@@ -5,11 +5,11 @@ I have experience in Typescript, Angular, React, Next Js, Redux, Node.js, Expres
 
 😍 Skills: HTML / CSS / JAVASCRIPT / FIREBASE / TYPESCRIPT / REACT / NEXT JS / REDUX / ANGULAR / NODE JS / MongoDB / NEST JS / POSTGRESQL / PRISMA 
 
-✔ 🔭 I’m currently working on Softlab IT 
-✔ 🌱 I’m currently learning Docker, AWS Deployment, Testing, GraphQL, React Native 
-✔ 👯 I’m looking to collaborate on GitHub 
-✔ 💬 Ask me about Web Development 
-✔ 📫 How to reach me: https://www.linkedin.com/in/m-rafiul-alam-tonmoy-65908a202/ 
+- ✔ 🔭 I’m currently working on Softlab IT 
+- ✔ 🌱 I’m currently learning Docker, AWS Deployment, Testing, GraphQL, React Native 
+- ✔ 👯 I’m looking to collaborate on GitHub 
+- ✔ 💬 Ask me about Web Development 
+- ✔ 📫 How to reach me: https://www.linkedin.com/in/m-rafiul-alam-tonmoy-65908a202/ 
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/RafiulAlam98)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/m-rafiul-alam-tonmoy-65908a202//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/rafiul.alam.buichitola/)  
