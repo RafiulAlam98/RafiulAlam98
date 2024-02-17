@@ -1,4 +1,4 @@
-### Hi there 👋, my name is M. Rafiul Alam Tonmoy
+### Hi, I'm M. Rafiul Alam Tonmoy
 #### Full Stack Developer
 A full-stack web developer with a passion for creating beautiful, functional websites. I specialize in the MERN stack as well as the MEAN stack and have experience with a variety of modern web development frameworks and libraries. I take pride in my attention to detail and strive to make sure all websites I develop are able to serve their purpose.
 I have experience in Typescript, Angular, React, Next Js, Redux, Node.js, Express Js, Nest Js, MongoDB, Postgres, Prisma and other web development trends. I am familiar with all the necessary tools needed to create a website, including version control systems and task management tools. And I'm here for whatever you need. Let me know how I can help!
