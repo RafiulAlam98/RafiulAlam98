@@ -1,11 +1,11 @@
 ### Hi, I'm M. Rafiul Alam Tonmoy
-#### Full Stack Developer
-A full-stack web developer with a passion for creating beautiful, functional websites. I specialize in the MERN stack as well as the MEAN stack and have experience with a variety of modern web development frameworks and libraries. I take pride in my attention to detail and strive to make sure all websites I develop are able to serve their purpose.
-I have experience in Typescript, Angular, React, Next Js, Redux, Node.js, Express Js, Nest Js, MongoDB, Postgres, Prisma and other web development trends. I am familiar with all the necessary tools needed to create a website, including version control systems and task management tools. And I'm here for whatever you need. Let me know how I can help!
+#### Junior Software Engineer
+I am a junior software engineer with a passion for creating beautiful, functional websites. I specialize in the MERN stack and the MEAN stack and have experience with various modern web development frameworks and libraries. I take pride in my attention to detail and strive to make sure all websites I develop can serve their purpose.
+I have experience in Typescript, Angular, React, Next Js, Redux, Node.js, Express Js, Nest Js, MongoDB, Postgres, Prisma and other web development trends. I am familiar with all the necessary tools to create a website, including version control systems and task management tools. And I'm here for whatever you need. Let me know how I can help!
 
-😍 Skills: HTML / CSS / JAVASCRIPT / FIREBASE / TYPESCRIPT / REACT / NEXT JS / REDUX / ANGULAR / NODE JS / MongoDB / NEST JS / POSTGRESQL / PRISMA 
+😍 Skills: HTML / CSS / JAVASCRIPT / FIREBASE / TYPESCRIPT / REACT / NEXT JS / REDUX / ANGULAR / NODE JS / MongoDB / NEST JS / POSTGRESQL / PRISMA / .NET Core / DOCKER
 
-- ✔ 🔭 I’m currently working on Softlab IT 
+- ✔ 🔭 I’m currently working on Prohelika X
 - ✔ 🌱 I’m currently learning Docker, AWS Deployment, Testing, GraphQL, React Native 
 - ✔ 👯 I’m looking to collaborate on GitHub 
 - ✔ 💬 Ask me about Web Development 
